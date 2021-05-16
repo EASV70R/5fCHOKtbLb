@@ -25,7 +25,6 @@
             >Watch my Video CV!</a
           >
           <h2>&</h2>
-		  //put cv in public folder
           <a href="/cv.pdf" class="btn btn-primary btn-xl"  target="_blank" 
             >Download my CV digitally.</a
           >
